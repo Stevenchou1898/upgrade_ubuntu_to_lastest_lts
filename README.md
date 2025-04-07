@@ -1,0 +1,2 @@
+# upgrade_ubuntu_to_lastest_lts
+升级ubuntu至最新LTS发行版一键脚本
