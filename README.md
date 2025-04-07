@@ -1,2 +1,3 @@
 # upgrade_ubuntu_to_lastest_lts
 升级ubuntu至最新LTS发行版一键脚本
+使用方法：下载脚本至服务器后执行即可
